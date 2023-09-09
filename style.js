@@ -1,3 +1,5 @@
+// info 
+console.log("Time Done: 4:20 | 10/09/2023 |Nguyen Hoang Hop")
 // bài tập tính lương nè 
 function TinhLuong(){
     var ngaydilam = document.getElementById("ngaydilam");
